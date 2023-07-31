@@ -13,9 +13,9 @@
 
 1. Copy `_worker.js` code from [here](https://github.com/Ptechgithub/pp-worker/blob/main/_worker.js).
 
-## UUID Setting (Optional)
+### UUID Setting (Optional)
 
-1. When deploy in cloudflare pages, you can set uuid in `wrangler.toml` file. variable name is `UUID`.
+1. When deplo y in cloudflare pages, you can set uuid in `wrangler.toml` file. variable name is `UUID`.
 
 2. When deploy in worker.dev, you can set uuid in `_worker.js` file. variable name is `userID`.
 
