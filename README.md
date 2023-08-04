@@ -5,8 +5,10 @@
    [https://www.youtube.com/@IR_Tech](https://www.youtube.com/@IR_TECH)
    
    🎗Telegram channel:
-   [https://www.t.me/P_tech2024](https://www.t.me/P_tech2024)
+ [https://www.t.me/P_tech2024](https://www.t.me/P_tech2024)
 
+
+for android download -->[hacker's Keyboard](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard)
 2. Clone this repository deploy in cloudflare pages.
 
 ## Deploy in worker.dev
