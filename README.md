@@ -2,7 +2,7 @@
 
 1. See YouTube Video:
 # برای دیدن آموزش به کانال زیر مراجعه کنید:
-   [https://www.youtube.com/@IR_Tech](https://www.youtube.com/@IR_TECH)
+   [https://www.youtube.com/@IR_Tech](https://www.youtube.com/@IR_TECH) 
    
    🎗Telegram channel:
  [https://www.t.me/P_tech2024](https://www.t.me/P_tech2024)
