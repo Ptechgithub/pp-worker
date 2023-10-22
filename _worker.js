@@ -4,7 +4,7 @@ import { connect } from 'cloudflare:sockets';
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
 let userID = '093452f7-40ee-435a-be19-8e987fa752b7';
 
-const proxyIPs = ['mtn.ircf.space', 'mkh.ircf.space', 'mci.ircf.space', 'rtl.ircf.space'];
+const proxyIPs = ['digitalocean.com', 'discord.com', 'musescore.com', 'medium.com'];
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
 
 let dohURL = 'https://1.1.1.1/dns-query';
