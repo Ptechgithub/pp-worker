@@ -1,4 +1,4 @@
-name = "pp-worker" # todo
+name = "hiddi-worker" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -6,10 +6,10 @@ main = "_worker.js"
 compatibility_date = "2023-05-26"
 
 [vars]
-# UUID = "2cd61524-9843-43ab-8a0a-df4a744bb859"
+# UUID = "36bbdd51-e525-4673-b085-3baf15b36dbc"
 # PROXYIP = "1.2.3.4"
 # DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "2cd61524-9843-43ab-8a0a-df4a744bb859,b71473f7-8245-49cf-b813-a25ad8261be1"
+UUID = "36bbdd51-e525-4673-b085-3baf15b36dbc,2cd61524-9843-43ab-8a0a-df4a744bb859,b71473f7-8245-49cf-b813-a25ad8261be1"
