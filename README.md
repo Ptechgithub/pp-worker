@@ -79,3 +79,6 @@ resons: Outbound TCP sockets to Cloudflare IP ranges are temporarily blocked, pl
 
 frist, open your pages.dev domain `https://pp-worker.pages.dev/` in your browser, then you can see the following page:
 The path `/uuid your seetting` to get the clash config and vless:// link.
+
+## Credits
+[EDTUNNEL](https://github.com/3Kmfi6HP/EDtunnel/blob/main/_worker.js)
