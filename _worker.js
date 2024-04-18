@@ -8,7 +8,7 @@ let userID = '77a571fb-4fd2-4b37-8596-1b7d9728bb5c';
 
 const proxyIPs = ['cdn.xn--b6gac.eu.org','cdn-all.xn--b6gac.eu.org' , 'cdn-b100.xn--b6gac.eu.org' , 'edgetunnel.anycast.eu.org' , 'cdn.anycast.eu.org' , 'workers.bestip.one'];
 
-let proxyIP = '152.70.63.41'
+let proxyIP = '43.157.17.4'
 
 let dohURL = 'https://sky.rethinkdns.com/1:-Pf_____9_8A_AMAIgE8kMABVDDmKOHTAKg='; // https://cloudflare-dns.com/dns-query or https://dns.google/dns-query
 
